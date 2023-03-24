@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "express": "^4.18.2"
+  },
+  "dependencies": {
+    "mongoose": "^7.0.2",
+    "nodemon": "^2.0.22",
+    "router": "^1.3.8"
+  },
+  "name": "servidor_open_world",
+  "version": "1.0.0",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon",
+    "Go": "node src/servidor.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
